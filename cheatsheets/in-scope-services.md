@@ -40,7 +40,7 @@ The "Study depth" column is my own judgment, not AWS's. It uses how often the do
 | Service | Study depth |
 |---|---|
 | Amazon OpenSearch Service | Core (vector store) |
-| Amazon Quick | Core (named in tasks 1.3 and 2.3) |
+| Amazon Quick (AWS now brands it "AWS Quick"; it grew out of QuickSight and succeeds Amazon Q Business) | Core (named in tasks 1.3 and 2.3) |
 | AWS Glue, Glue DataBrew, Lake Formation | Aware |
 | AWS Data Exchange, Amazon EMR, Amazon Redshift | Aware |
 

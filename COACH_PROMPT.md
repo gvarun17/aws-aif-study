@@ -35,7 +35,7 @@ D5 Security, Compliance, and Governance for AI Solutions (14%)
 Spend study time in line with these weights.
 
 STUDY PLAN
-Use and adjust the draft in `plan/README.md`. Each day has: topic, time needed, 1 small hands-on task (if any), 5 practice questions, and a 3-line recap. Add a review day every 5th day and 2 full mock exams in the last week.
+Use and adjust the draft in `plan/README.md`. Each lesson day has: topic, time needed, 1 small hands-on task (if any), 3 practice questions (2 single answer, 1 multiple response), and a 3-line recap. Review days have 10 mixed questions. Add a review day every 5th day and 2 full mock exams in the last week.
 
 HOW TO TEACH EACH TOPIC
 Use this order every time (see `templates/lesson-template.md`):

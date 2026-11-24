@@ -35,8 +35,21 @@ Scores: 1 (poor) to 5 (good). "n/a" = nothing to judge yet.
 
 ## Top remaining gaps
 
-1. Write the 19 lesson days. Review each against `plan/exam-guide-map.md`.
-2. Write about 95 daily practice questions (5 per lesson day) and 2 mocks of 65, all tagged by task statement.
+1. (Done in pass 2) Lessons for all days. Review each against `plan/exam-guide-map.md` with a second reader.
+2. Write the 2 mock exams (65 questions each), all tagged by task statement. Daily questions are done (88).
 3. Write lab files. Check current docs for every console path. Price each lab.
 4. Confirm what Quick, Kiro, AgentCore and Strands do from AWS docs before teaching them.
 5. Check the guide revisions page every week until the exam.
+
+
+## Update — pass 2 (lessons written)
+
+| # | Criterion | After pass 1 | After pass 2 | Note |
+|---|---|---|---|---|
+| 2 | Currency | 4 | 4 | Lessons use sources read on 2026-11-24. Quick rebrand caught. |
+| 3 | Coverage | 4 | 5 | All 14 task statements have a lesson. |
+| 4 | Depth and balance | n/a | 4 | Lesson days follow the weights. Some topics are short (see open items). |
+| 6 | Teaching quality | 4 | 4 | Same 9-step format in every lesson. |
+| 7 | Practice | 3 | 4 | 88 questions with reasons. Mock exams still missing. |
+
+Remaining gaps: mock exams (130 questions), lab step files, domain cheat sheets, a second-person check of all answer keys.

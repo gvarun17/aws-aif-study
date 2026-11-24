@@ -6,7 +6,7 @@ This is a draft. Day 0 finds your real study time `[X]` hours per day and your e
 Lesson days follow the exam weights closely: D1 19%, D2 25%, D3 31%, D4 12.5%, D5 12.5% (weights are 20/24/28/14/14).
 
 Rules:
-- Each day: topic, time, 1 hands-on task (if any), 5 practice questions (include multiple response), 3-line recap.
+- Each lesson day: topic, time, 1 hands-on task (if any), 3 practice questions (2 single answer, 1 multiple response), 3-line recap. Review days add 10 mixed questions.
 - Every 5th day is a review day.
 - Last week: 2 timed mock exams (65 questions, 90 minutes) and a full wrong-answer review.
 - Request ESL +30 **before** you book the exam (see `../exam-day.md`).
